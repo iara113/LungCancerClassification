@@ -13,4 +13,5 @@ To run the notebook successfully, you will need access to the datasets available
 Please ensure you have the necessary datasets and libraries installed before running the notebook.
 
 **Note:** All content is written in Portuguese.
+
 **Project Evaluation:** The project was evaluated and received a score of 8.8 out of 10.
